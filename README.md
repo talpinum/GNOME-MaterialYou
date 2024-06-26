@@ -3,7 +3,7 @@ A collection of GNOME 46 themes that follow a look similar to Android's material
 
 
 # Installation
-Copy the .css files of your interest in the "~/.themes" folder, then use the "User Themes" extension to change theme.
+Copy the theme folders of your interest in the "~/.themes" folder, then use the "User Themes" extension to change theme.
 
 # Example images
 
