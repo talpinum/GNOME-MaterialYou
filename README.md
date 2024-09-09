@@ -6,7 +6,7 @@ e.g.: these themes don't increase the size of thumbnail indicators in the overvi
 
 
 # Installation
-Copy the theme folders of your interest in the "~/.themes" folder (create it if you don't have it), then use the "User Themes" extension to change theme.
+Copy the theme folders of your interest in the "~/.themes" directory (create it if you don't have it), then use the "User Themes" extension to change theme.
 
 # Example images
 
