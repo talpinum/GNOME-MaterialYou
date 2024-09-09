@@ -15,8 +15,9 @@ Copy the theme folders of your interest in the "~/.themes" folder (create it if 
 ![Red example 2](https://github.com/talpinum/GNOME-MaterialYou/assets/144681756/e938bed4-2a46-46f4-b9dd-c444bcc9aa1e)
 
 ## Green hue theme
-![Green example 1](https://github.com/user-attachments/assets/4f2f7e8e-9ba7-4824-a29c-59319f375a5f)
-![Green example 2](https://github.com/user-attachments/assets/4a2387ad-376d-449c-ab24-cf703ad005b2)
+![Green example 1](https://github.com/user-attachments/assets/4a2387ad-376d-449c-ab24-cf703ad005b2)
+![Green example 2](https://github.com/user-attachments/assets/c847a955-f0aa-4fdc-8cd0-f0a2a50954f3)
+
 
 
 
