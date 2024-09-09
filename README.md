@@ -16,7 +16,8 @@ Copy the theme folders of your interest in the "~/.themes" folder (create it if 
 
 ## Green hue theme
 ![Green example 1](https://github.com/user-attachments/assets/4f2f7e8e-9ba7-4824-a29c-59319f375a5f)
-![Green example 2](https://github.com/user-attachments/assets/1cde6545-e2ce-4986-bbee-7a3666612d14)
+![Green example 2](https://github.com/user-attachments/assets/4a2387ad-376d-449c-ab24-cf703ad005b2)
+
 
 
 
