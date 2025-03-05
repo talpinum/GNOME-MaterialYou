@@ -1,0 +1,49 @@
+$main-accent: #FFB1C3; //rgb(255, 177, 195)
+$text-highlight: rgba(255, 177, 195, 0.4);
+$main-accent-half: rgba(255, 177, 195, 0.5); //for focus like search bars and app select in app search
+
+$text: #F6D5DB; //rgb(246, 213, 219) rgba(246, 213, 219, 0.6)#4D383F
+$text-notifHeader: #9b8c93;
+
+//hover, active, various folder effects etc.
+$hover:   rgba(255, 200, 220, 0.1);
+$hover-1: rgba(255, 200, 220, 0.13);
+$hover-2: rgba(255, 200, 220, 0.15);
+$hover-3: rgba(255, 200, 220, 0.16);
+$hover-4: rgba(255, 200, 220, 0.18);
+$hover-5: rgba(255, 200, 220, 0.2);
+$hover-6: rgba(255, 200, 220, 0.23);
+$hover-7: rgba(255, 200, 220, 0.25);
+$hover-8: rgba(255, 200, 220, 0.3);
+$hover-9: rgba(255, 200, 220, 0.35);
+$hover-10: rgba(255, 200, 220, 0.4);
+$hover-11: rgba(255, 200, 220, 0.5);
+$hover-12: rgba(255, 200, 220, 0.6);
+$hover-13: rgba(255, 200, 220, 0.7);
+$hover-14: rgba(255, 200, 220, 0.9);
+$hover-15: rgba(255, 200, 220, 0.05);
+
+$hover-alt: rgba(127, 78, 91, 0.2);
+$selection-rubberband: rgba(127, 78, 91, 0.3);
+$tile-previews: rgba(127, 78, 91, 0.5);
+$hover-alt-2: rgba(127, 78, 91, 0.6);
+
+$search-list-border: rgba(128, 80, 110, 0.5);
+$pointer-location-ripple: rgba(197, 161, 170, 0.3);
+
+$quick-toggle-checked-hover: #FFCCD8;
+
+$darkest-accent: #2e2126; /*old 30262A*/
+$dark-light-accent: #4d343c; /* also dash color, rgba(77, 56, 63, 1), old is 4D383F */
+$clear-button: rgba(77, 56, 63, 0.5);
+$dark-light-accent-hover: #5E454E; /*for popup notifications old is #4F3A42*/
+$dark-light-accent-click: #6D505A; /*for popup notifications and close button in overview*/
+$tooltip-border: #6e4754;
+
+$search-status: rgba(243, 200, 209, 0.9);
+$header-color: #BA8D96; /*calendar, weather, notification popups etc, previous was #AE7984, old idk*/
+
+
+$screenshot-shade: rgba(55, 35, 42, 0.5);
+$toggle-switch-checked: rgb(42, 9, 17);
+$shadow-color: rgba(17, 2, 7, 0.3);
