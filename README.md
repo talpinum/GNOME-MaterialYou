@@ -1,5 +1,5 @@
 # GNOME MaterialYou
-A collection of GNOME 46+ themes that follow a look similar to Android's material you. **STILL WIP AS OF NOW**
+A collection of GNOME 46+ themes that follow a look similar to Android's material you. **Should look fine for daily use now, but I don't know if I missed some parts of the shell that I don't use**
 
 *Note: if your system looks different from the screenshots it's likely due to a difference in extensions.<br/>
 e.g.: these themes don't increase the size of thumbnail indicators in the overview, that's done through [this](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/) extension.
